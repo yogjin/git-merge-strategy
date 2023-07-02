@@ -1,1 +1,3 @@
-project init
+const subtract = (a, b) => {
+  return a - b;
+};
